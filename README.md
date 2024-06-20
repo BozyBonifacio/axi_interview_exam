@@ -6,7 +6,7 @@
 # Running the Deploy.ps1 to build the project and deploy to a container
 1. All my files are located in C:\git\axi_interview_exam\BozyFiles
 2. The location of the Deploy.ps1 is C:\git\axi_interview_exam\BozyFiles
-3. To run the powershell shell script. Open powershell then run the script --> C:\git\axi_interview_exam\BozyFiles\Deploy.ps1 -WorkingDirectory C:\git\axi_interview_exam | Out-File Deploy.log -Append
+3. To run the powershell shell script. Open powershell then run the script --> C:\git\axi_interview_exam\BozyFiles\Deploy.ps1 -WorkingDirectory C:\git\axi_interview_exam > C:\git\axi_interview_exam\BozyFiles\Deploy.log
 3. Workingdirectory parameter is the root directory of your git repository. i.e C:\git\axi_interview_exam
 
 # Explanation for Set-1
