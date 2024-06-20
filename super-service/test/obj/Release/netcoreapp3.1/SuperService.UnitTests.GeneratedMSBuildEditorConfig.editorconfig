@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SuperService.UnitTests
+build_property.ProjectDir = C:\git\axi_interview_exam\super-service\test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

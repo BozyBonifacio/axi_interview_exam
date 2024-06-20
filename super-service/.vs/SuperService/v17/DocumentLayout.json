@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevOps_interview_test\\super-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611683A0-BE0F-4984-830F-2F86C3B46F1C}|SuperService.csproj|c:\\devops_interview_test\\super-service\\src\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{611683A0-BE0F-4984-830F-2F86C3B46F1C}|SuperService.csproj|solutionrelative:src\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\DevOps_interview_test\\super-service\\src\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Dockerfile",
+              "ToolTip": "C:\\DevOps_interview_test\\super-service\\src\\Dockerfile",
+              "RelativeToolTip": "src\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T05:22:28.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

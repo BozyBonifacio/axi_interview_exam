@@ -1,0 +1,7 @@
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.exe
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.deps.json
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.runtimeconfig.json
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.pdb

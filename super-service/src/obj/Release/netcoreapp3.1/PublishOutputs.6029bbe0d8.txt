@@ -1,0 +1,7 @@
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.exe
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.dll
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.deps.json
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.runtimeconfig.json
+C:\DevOps_interview_test\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.pdb
