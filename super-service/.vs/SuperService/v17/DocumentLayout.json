@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DevOps_interview_test\\super-service\\",
+  "WorkspaceRootPath": "C:\\git\\axi_interview_exam\\super-service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{611683A0-BE0F-4984-830F-2F86C3B46F1C}|SuperService.csproj|c:\\devops_interview_test\\super-service\\src\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{611683A0-BE0F-4984-830F-2F86C3B46F1C}|SuperService.csproj|solutionrelative:src\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{611683A0-BE0F-4984-830F-2F86C3B46F1C}|src\\SuperService.csproj|c:\\git\\axi_interview_exam\\super-service\\src\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{611683A0-BE0F-4984-830F-2F86C3B46F1C}|src\\SuperService.csproj|solutionrelative:src\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\DevOps_interview_test\\super-service\\src\\Dockerfile",
+              "DocumentMoniker": "C:\\git\\axi_interview_exam\\super-service\\src\\Dockerfile",
               "RelativeDocumentMoniker": "src\\Dockerfile",
-              "ToolTip": "C:\\DevOps_interview_test\\super-service\\src\\Dockerfile",
+              "ToolTip": "C:\\git\\axi_interview_exam\\super-service\\src\\Dockerfile",
               "RelativeToolTip": "src\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-20T05:22:28.289Z",
               "EditorCaption": ""
