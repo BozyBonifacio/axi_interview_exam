@@ -19,3 +19,8 @@
 
 # Building the solution
 1. You can open the solution file C:\git\axi_interview_exam\super-service\SuperService.sln using Visual Studio in case you want to see the updated codes and build the projects.
+
+
+# Additional Changes
+1. Added a helm chart in C:\git\axi_interview_exam\super-service\src\charts
+2. Modifed C:\git\axi_interview_exam\BozyFiles\Deploy.ps1 and add the helm package and install

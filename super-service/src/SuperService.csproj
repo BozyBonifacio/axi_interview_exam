@@ -5,5 +5,9 @@
     <RootNamespace>SuperService</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="charts\" />
+  </ItemGroup>
+
 
 </Project>
