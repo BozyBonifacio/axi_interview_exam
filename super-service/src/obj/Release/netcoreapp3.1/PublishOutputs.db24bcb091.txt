@@ -5,3 +5,7 @@ C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\Su
 C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.deps.json
 C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.runtimeconfig.json
 C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\SuperService.pdb
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\Microsoft.OpenApi.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

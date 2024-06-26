@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a3c7f4a1d7c880e1d26812d8ffdeef638f2e82c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26331a16e4d875f1f919cbce02311f388f4eb36c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

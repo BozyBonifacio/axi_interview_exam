@@ -209,3 +209,7 @@ C:\git\axi_interview_exam\super-service\test\obj\Release\netcoreapp3.1\SuperSer.
 C:\git\axi_interview_exam\super-service\test\obj\Release\netcoreapp3.1\SuperService.UnitTests.dll
 C:\git\axi_interview_exam\super-service\test\obj\Release\netcoreapp3.1\SuperService.UnitTests.pdb
 C:\git\axi_interview_exam\super-service\test\obj\Release\netcoreapp3.1\SuperService.UnitTests.genruntimeconfig.cache
+C:\git\axi_interview_exam\super-service\test\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\git\axi_interview_exam\super-service\test\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\axi_interview_exam\super-service\test\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\axi_interview_exam\super-service\test\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll

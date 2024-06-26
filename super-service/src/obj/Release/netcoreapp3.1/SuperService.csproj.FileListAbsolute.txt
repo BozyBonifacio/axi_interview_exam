@@ -45,3 +45,10 @@ C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\staticweba
 C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\SuperService.dll
 C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\SuperService.pdb
 C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\SuperService.genruntimeconfig.cache
+C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\SuperService.csproj.AssemblyReference.cache
+C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\SuperService.MvcApplicationPartsAssemblyInfo.cs
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\axi_interview_exam\super-service\src\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\axi_interview_exam\super-service\src\obj\Release\netcoreapp3.1\SuperSer.C15DF393.Up2Date

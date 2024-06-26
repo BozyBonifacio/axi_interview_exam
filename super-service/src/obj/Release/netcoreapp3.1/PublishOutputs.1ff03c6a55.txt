@@ -1,0 +1,11 @@
+C:\git\axi_interview_exam\super-service\src\out\SuperService.exe
+C:\git\axi_interview_exam\super-service\src\out\appsettings.Development.json
+C:\git\axi_interview_exam\super-service\src\out\appsettings.json
+C:\git\axi_interview_exam\super-service\src\out\SuperService.dll
+C:\git\axi_interview_exam\super-service\src\out\SuperService.deps.json
+C:\git\axi_interview_exam\super-service\src\out\SuperService.runtimeconfig.json
+C:\git\axi_interview_exam\super-service\src\out\SuperService.pdb
+C:\git\axi_interview_exam\super-service\src\out\Microsoft.OpenApi.dll
+C:\git\axi_interview_exam\super-service\src\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\axi_interview_exam\super-service\src\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\axi_interview_exam\super-service\src\out\Swashbuckle.AspNetCore.SwaggerUI.dll
