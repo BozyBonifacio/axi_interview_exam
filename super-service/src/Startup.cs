@@ -40,13 +40,19 @@ namespace SuperService
         {
             app.UseDeveloperExceptionPage();
         }
-        //if (!env.IsProduction())
-        //{
-            app.UseSwagger();
+            //if (!env.IsProduction())
+            //{
+                app.UseSwagger();
             app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApi5 v1"));
-        //}
+            //}
 
-      app.UseHttpsRedirection();
+            if (env.IsProduction())
+            {
+                // when an exception occurs, route to /Home/Error
+                app.UseExceptionHandler("/Home/Error");
+            }
+
+            app.UseHttpsRedirection();
 
       app.UseRouting();
 

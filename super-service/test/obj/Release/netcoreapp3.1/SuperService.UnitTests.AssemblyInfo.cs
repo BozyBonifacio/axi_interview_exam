@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperService.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a5a766e9f7503d220b2d786001183a01c6294f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e0a43655d7bd0994141a28a9711b2dd484e081")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperService.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperService.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
