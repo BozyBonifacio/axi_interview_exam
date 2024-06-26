@@ -20,8 +20,8 @@ param(
 & docker build -t superservice-image -f Dockerfile .
 
 #generate the helm chart for super-service
-#helm package charts
-#helm install super-service ./super-service-0.1.0.tgz
+helm package charts
+helm install super-service ./super-service-0.1.0.tgz
 
 #helm list
 #helm delete super-service
